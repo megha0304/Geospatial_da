@@ -1,4 +1,4 @@
-##Hands On Spatial Data !!
+## Hands On Spatial Data !!
 
 Since you learned a bit about Azure Orbitals, it's time to use the geospatial data in real-time.
 To start from scratch we will first install the Anaconda 🐍 (open-source) <br>
